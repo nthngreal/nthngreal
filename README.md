@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Open Source · Python · Windows</b>
+  <b>Open Source · C# · Python · Windows</b>
 </p>
 
 ---
@@ -14,56 +14,51 @@
 
 I build small tools that solve real problems.
 
-Currently exploring software development by turning ideas into working,
-public projects and learning along the way.
+Currently exploring software development by turning ideas into working, public projects and learning along the way.
 
 ### 🚀 Current project
 
-## 🚀 Projects
+#### [NODR](https://github.com/nthngreal/NODR)
 
-### [Voxa](https://github.com/nthngreal/Voxa)
+**Cleaner. Faster. Freer.**
 
-Local Ukrainian text-to-speech desktop app for Windows, powered by Supertonic.
+A focused Windows utility for system monitoring, safe disk cleanup, large-file discovery, and controlled application removal.
 
-- 🇺🇦 Ukrainian text-to-speech
-- 🎙️ 10 built-in voice presets
-- ⚡ Quick voice generation
-- 🎬 Scene-based workflow
-- 🔊 Built-in audio preview
-- 🌐 English & Ukrainian interface
-- 🔒 Local processing — no cloud API
-- 📦 Portable Windows build
+- 🖥️ Live CPU, GPU, RAM & storage monitoring
+- 🧹 Targeted disk cleanup
+- 📦 Large File Finder
+- 🗑️ Application uninstaller & leftover review
+- 🛡️ Conservative, local-first approach
+- 🌗 System, Dark & Light themes
+- 🌍 English, Ukrainian & Russian
+- 📦 Setup & Portable Windows builds
 
-**Tech:** `Python` · `CustomTkinter` · `Supertonic` · `Windows`
+**Tech:** `C#` · `WPF` · `.NET 10` · `Windows`
+
+[Download latest release](https://github.com/nthngreal/NODR/releases/latest)
 
 ---
 
-### [Pullio](https://github.com/nthngreal/Pullio)
-
-A lightweight open-source Windows app for downloading video and audio, powered by yt-dlp and FFmpeg.
-
-- Video in the best available quality
-- MP4 / MKV
-- MP3 extraction
-- CapCut-friendly MP4
-- Portable Windows build
-- No Python installation required
+### 🚀 Projects
 
 #### [Pullio](https://github.com/nthngreal/Pullio)
 
-A lightweight open-source Windows app for downloading video and audio,
-powered by **yt-dlp** and **FFmpeg**.
+A lightweight open-source Windows app for downloading video and audio, powered by yt-dlp and FFmpeg.
 
-- Video up to the best available quality
-- MP4 / MKV
-- MP3 extraction
-- CapCut-friendly MP4
-- Portable Windows build
-- No Python installation required
+- 🎬 Video in the best available quality
+- 📦 MP4 / MKV
+- 🎵 MP3 extraction
+- 🎞️ CapCut-friendly MP4
+- 📦 Portable Windows build
+- 🔓 No Python installation required
+
+**Tech:** `Python` · `Git` · `FFmpeg` · `yt-dlp` · `Windows`
+
+---
 
 ### 🛠 Tech
 
-`Python` · `Git` · `FFmpeg` · `yt-dlp` · `Windows`
+`C#` · `WPF` · `.NET` · `Python` · `Git` · `Windows`
 
 ---
 
