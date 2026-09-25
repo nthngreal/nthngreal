@@ -16,7 +16,24 @@ I build small tools that solve real problems.
 
 Currently exploring software development by turning ideas into working, public projects and learning along the way.
 
-### 🚀 Current project
+### 🚀 Projects
+
+#### [NØX](https://github.com/nthngreal/NOX)
+
+**Local AI for Ukrainian voice & subtitles.**
+
+A Windows application for local Ukrainian speech synthesis, audio transcription, and subtitle generation.
+
+- 🇺🇦 31 Ukrainian voices
+- 🎙️ Local speech recognition
+- 📝 TXT / SRT subtitle generation
+- 🔒 Local AI processing
+- ⚡ NVIDIA GPU acceleration
+- 📦 Windows installer
+
+**Tech:** `Python` · `Windows` · `NVIDIA GPU`
+
+[Download latest release →](https://github.com/nthngreal/NOX/releases/latest)
 
 #### [NODR](https://github.com/nthngreal/NODR)
 
@@ -35,11 +52,7 @@ A focused Windows utility for system monitoring, safe disk cleanup, large-file d
 
 **Tech:** `C#` · `WPF` · `.NET 10` · `Windows`
 
-[Download latest release](https://github.com/nthngreal/NODR/releases/latest)
-
----
-
-### 🚀 Projects
+[Download latest release →](https://github.com/nthngreal/NODR/releases/latest)
 
 #### [Pullio](https://github.com/nthngreal/Pullio)
 
@@ -58,7 +71,7 @@ A lightweight open-source Windows app for downloading video and audio, powered b
 
 ### 🛠 Tech
 
-`C#` · `WPF` · `.NET` · `Python` · `Git` · `Windows`
+`C#` · `WPF` · `.NET` · `Python` · `Git` · `FFmpeg` · `yt-dlp` · `Windows`
 
 ---
 
